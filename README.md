@@ -1,7 +1,6 @@
 # Oi 👋, eu sou o Matheus
 
-Eu construo **produtos escaláveis**, **plataformas SaaS** e **sistemas web de alta performance**.  
-Sou profundamente focado em **arquitetura, performance, código limpo e soluções orientadas a negócio**.
+Eu construo **produtos escaláveis**, **plataformas SaaS** e **sistemas web de alta performance**. focando em **arquitetura, performance, código limpo e soluções orientadas a negócio**.
 
 ---
 
