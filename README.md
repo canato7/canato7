@@ -1,8 +1,6 @@
 ## Hello!
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=canato7)](https://github.com/stats-organization/github-stats-extended)
-
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=canato7)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=canato7&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=transparent)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
