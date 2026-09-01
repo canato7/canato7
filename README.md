@@ -2,6 +2,8 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=canato7&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=transparent)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=canato7&hide_progress=true&langs_count=6&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&hide_progress=true&langs_count=6&theme=transparent)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
